@@ -25,7 +25,7 @@ Teaching Experience
 Research Experience
 ======
 * **Research Assistant**, University of Tehran (2024–Present)  
-  * Working on a project in causal discovery and longitudinal data under the supervision of my advisor.  
+  * Working on a project based on longitudinal data under the supervision of Dr. Zahra Rezaei Ghahroodi.  
 
 * **Intern**, Statistical Center of Iran – Research and Development Division (Winter & Spring 2022)  
   * Contributed to the development and refinement of a national questionnaire for data collection focusing on methodological design and evaluation.
@@ -39,6 +39,7 @@ Publications and Presentations
 
 * **Conference Paper and Talk:** *An Introduction to CIM Causal Discovery Algorithm*, The 17th Iranian Statistics Conference, University of Birjand (August 20–22, 2024)
   * [Presented a talk on causal discovery frameworks and assumptions, highlighting the motivation and structure of the proposed algorithm, and demonstrated its workflow through a simulation study.] 
+
 ---
 
 Skills
@@ -47,7 +48,3 @@ Skills
 * Causal discovery and graphical models  
 * Longitudinal data analysis  
 * R, LaTeX  
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
