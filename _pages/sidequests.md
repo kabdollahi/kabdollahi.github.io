@@ -5,7 +5,8 @@ permalink: /sidequests/
 author_profile: true
 ---
 
-## Side Quests
+Side quests 
+------
 - Reading, journaling, thinking
 - Sport climbing and bouldering… when I'm not injured
 - Solo hiking, nothing too dangerous
@@ -13,7 +14,8 @@ author_profile: true
 - Playing Texas Hold’em online
 - Cooking soups
 
-## Detours & Turns
+Detours & Turns
+------
 - As a high schooler, I was fascinated by physics and uncertainty, and later wanted to become a VFX artist and direct music videos—storytelling through visuals (then statistics happened)
 - Almost pursued forensic science, nearly worked at Judiciary Research Institute, but it didn’t feel right for this life
 - Started learning French seriously right after my master’s thesis defense
