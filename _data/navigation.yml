@@ -21,7 +21,7 @@ main:
     
   - title: "Weekly Talks"
    # url: /portfolio/
-   url: /weaklytalks/
+    url: /weeklytalks/
         
   - title: "Blog"
     url: /year-archive/
