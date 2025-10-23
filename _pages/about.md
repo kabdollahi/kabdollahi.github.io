@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Kosar, I recently completed my master’s in Mathematical Statistics at the University of Tehran, where I worked on my thesis about causal discovery in longitudinal data. With a strong background in mathematical statistics, I enjoy exploring how data, uncertainty, and structure come together to form meaningful conclusions. 
-#I’ve always been drawn to the idea of understanding the world through uncertainty.
+
+Hi! I’m Kosar, and I recently completed my master’s in Mathematical Statistics at the University of Tehran, where I worked on my thesis about causal discovery in longitudinal data from COVID-19 patients, exploring how to make inferences more robust by carefully examining and relaxing underlying assumptions. With a strong background in mathematical statistics, I enjoy exploring how data, uncertainty, and structure come together to form meaningful conclusions. I’ve always been drawn to the idea of understanding the world through uncertainty.
 
 
 Life's Twists, Turns, and Lessons
