@@ -20,7 +20,8 @@ main:
   #  url: /teaching/    
     
   - title: "Weekly Talks"
-    url: /portfolio/
+   # url: /portfolio/
+   url: /weaklytalks/
         
   - title: "Blog"
     url: /year-archive/
