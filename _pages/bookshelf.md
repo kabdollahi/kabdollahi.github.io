@@ -7,7 +7,6 @@ author_profile: true
 
 Just the one I’m reading right now.
 
-<h2>2025</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
