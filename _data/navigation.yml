@@ -27,7 +27,7 @@ main:
     url: /year-archive/
 
   - title: "Bookshelf"
-    url: /portfolio/
+    url: /bookshelf/
   
   - title: "Side Quests"
     url: /sidequests/
