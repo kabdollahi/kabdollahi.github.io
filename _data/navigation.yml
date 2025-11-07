@@ -25,7 +25,10 @@ main:
         
   - title: "Blog"
     url: /year-archive/
-    
+
+  - title: "Bookshelf"
+    url: /portfolio/
+  
   - title: "Side Quests"
     url: /sidequests/
     
