@@ -5,7 +5,7 @@ permalink: /bookshelf/
 author_profile: true
 ---
 
-Just the one I’m reading right now.
+Just the one I’m currently reading.
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -17,4 +17,5 @@ Just the one I’m reading right now.
 
 </div>
 
-Looking for what happens when the call goes unanswered.
+**The Hero with a Thousand Faces — Joseph Campbell**  
+*Looking for what happens when the call to adventure goes unanswered.*
