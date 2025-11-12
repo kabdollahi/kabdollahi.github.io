@@ -5,9 +5,8 @@ permalink: /sidequests/
 author_profile: true
 ---
 
-- Reading, journaling, thinking
+- Reading, journaling
 - Sport climbing and bouldering… when I'm not injured
 - Solo hiking, nothing too dangerous
-- Playing bass (tried producing, but being a player feels way more me)
-- Playing Texas Hold’em online
+- Playing bass guitar (tried producing, but being a player feels way more me)
 - Cooking soups
