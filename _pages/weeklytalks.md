@@ -9,7 +9,7 @@ A weekly (or bi-weekly) series where my friend and I discuss ideas or questions 
 
 Talk01: Attention Is All You Need
 -----
-For my first talk, I chose to discuss what is considered one of the most important papers from the past 30 years: "Attention Is All You Need." [Slides](https://docs.google.com/presentation/d/1HOvJAbs-MfwFsTB8hYYiw7Ls5kCPhNxMYsOaQ3fQZlE/edit?usp=sharing)
+For my first talk, I chose to discuss what is considered one of the most important papers from the past 30 years: "Attention Is All You Need." It’s a paper that anyone should read at least once. [Slides](https://docs.google.com/presentation/d/1HOvJAbs-MfwFsTB8hYYiw7Ls5kCPhNxMYsOaQ3fQZlE/edit?usp=sharing)
 
 
 Talk02: A Story of an Antinomy
@@ -21,7 +21,7 @@ Talk03: More Than Just a TOEFL Task
 -----
 While preparing for the TOEFL exam, I took a writing workshop where the teacher emphasized reasoning and critical thinking over grammar. He pointed out that many Iranian students, even at university, rarely practice structured reasoning through essay writing, which limits how we express ideas. This inspired me to read [“Critical Thinking: Your Guide to Effective Argument, Successful Analysis and Independent Study”](https://uk.sagepub.com/en-gb/eur/critical-thinking/book271969) by Tom Chatfield, and in this talk, I explore the TOEFL writing discussion task, the difference between uncritical and critical thinking, and how to identify and reframe common logical fallacies. [Slides](https://docs.google.com/presentation/d/1nouqfDDZAmef95WUVu8xt7ddepzc3RqqU97WLFY8Vss/edit?usp=sharing)
 
-Talk04&05: Biomechanics of Writs
+Talk04&05: Biomechanics of Wrist
 -----
 This talk explores the complex biomechanics of the wrist, inspired by injuries that both I and my friend's mom have experienced. I focus on two main parts: the bones and the ligaments, based on Chapter 7 of [Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation](https://shop.elsevier.com/books/kinesiology-of-the-musculoskeletal-system/neumann/978-0-323-28753-1). [Slides](https://docs.google.com/presentation/d/1mxTAbeiTHfng3nRz1oeYYAW9MOMBktkmOvhKIoK54WE/edit?usp=sharing)
 
