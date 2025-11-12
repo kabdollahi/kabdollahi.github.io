@@ -9,6 +9,7 @@ A weekly (or bi-weekly) series where my friend and I discuss ideas or questions 
 
 Talk01: Attention Is All You Need
 -----
+For my first talk, I chose to discuss what is considered one of the most important papers from the past 30 years: "Attention Is All You Need." [Slides](https://docs.google.com/presentation/d/1HOvJAbs-MfwFsTB8hYYiw7Ls5kCPhNxMYsOaQ3fQZlE/edit?usp=sharing)
 
 
 Talk02: A Story of an Antinomy
@@ -30,5 +31,5 @@ This talk was inspired by the song [Read My Mind](https://youtu.be/zc8hbSM1zVo?s
 
 Talk07: Knot Theory
 -----
-Having just passed my knot‑tying exam as part of the sport climbing training course at [IMSCF](https://msfi.ir/), this talk is about the mathematics behind knots. To keep the talk short, I’ll focus on this most common climbing knot, the figure eight follow‑through. [Slides]()
+Having just passed my knot‑tying exam as part of the sport climbing training course at [IMSCF](https://msfi.ir/), this talk is about the mathematics behind knots. To keep the talk short, I’ll focus on this most common climbing knot, the figure eight follow‑through. [Slides](https://docs.google.com/presentation/d/1DyQdjJiNeATbr6QGGrM4XHHSam-dodv5O1l3iXmY7VE/edit?usp=sharing)
 
