@@ -20,6 +20,15 @@ Talk03: More Than Just a TOEFL Task
 -----
 While preparing for the TOEFL exam, I took a writing workshop where the teacher emphasized reasoning and critical thinking over grammar. He pointed out that many Iranian students, even at university, rarely practice structured reasoning through essay writing, which limits how we express ideas. This inspired me to read [“Critical Thinking: Your Guide to Effective Argument, Successful Analysis and Independent Study”](https://uk.sagepub.com/en-gb/eur/critical-thinking/book271969) by Tom Chatfield, and in this talk, I explore the TOEFL writing discussion task, the difference between uncritical and critical thinking, and how to identify and reframe common logical fallacies. [Slides](https://docs.google.com/presentation/d/1nouqfDDZAmef95WUVu8xt7ddepzc3RqqU97WLFY8Vss/edit?usp=sharing)
 
-Talk04: Can You Read My Mind?
+Talk04&05: Biomechanics of Writs
+-----
+This talk explores the complex biomechanics of the wrist, inspired by injuries that both I and my friend's mom have experienced. I focus on two main parts: the bones and the ligaments, based on Chapter 7 of [Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation](https://shop.elsevier.com/books/kinesiology-of-the-musculoskeletal-system/neumann/978-0-323-28753-1). [Slides](https://docs.google.com/presentation/d/1mxTAbeiTHfng3nRz1oeYYAW9MOMBktkmOvhKIoK54WE/edit?usp=sharing)
+
+Talk06: Can You Read My Mind?
 -----
 This talk was inspired by the song [Read My Mind](https://youtu.be/zc8hbSM1zVo?si=L5pVHzKuoWQGq06e) by The Killers. The line “I never really gave up on breaking out of this two-star town…” has always made me think about exploring new paths, opportunities, and the longing to move beyond the city I live in. Building on that feeling, I reflect on the options and directions I’m considering for my PhD journey. Since this talk is quite personal, I won’t be sharing the slides publicly.
+
+Talk07: Knot Theory
+-----
+Having just passed my knot‑tying exam as part of the sport climbing training course at [IMSCF](https://msfi.ir/), this talk is about the mathematics behind knots. To keep the talk short, I’ll focus on this most common climbing knot, the figure eight follow‑through. [Slides]()
+
