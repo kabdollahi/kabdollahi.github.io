@@ -5,11 +5,12 @@ permalink: /weeklytalks/
 author_profile: true
 ---
 
-A weekly (or bi-weekly) series where my friend and I discuss ideas or questions we encounter in daily life and share insights in 15–60 minute talks. Presentations slides are available via the links provided.
+A bi-weekly (sometimes weekly) series my friend (a CS student) and I started over half a year ago, where we discuss ideas or questions we encounter in daily life and share insights in 15–60 minute talks. Presentations slides are available via the links provided.
 
 Talk01: Attention Is All You Need
 -----
-For my first talk, I chose to discuss what is considered one of the most important papers from the past 30 years: "Attention Is All You Need." It’s a paper that anyone should read at least once. [Slides](https://docs.google.com/presentation/d/1HOvJAbs-MfwFsTB8hYYiw7Ls5kCPhNxMYsOaQ3fQZlE/edit?usp=sharing)
+For my first talk, I chose to discuss what is considered one of the most important papers from the past 30 years: "Attention Is All You Need." My friend isn’t exactly a fan of AI, but I felt it was essential to get them familiar with it. It’s a paper everyone should read at least once. [Slides](https://docs.google.com/presentation/d/1HOvJAbs-MfwFsTB8hYYiw7Ls5kCPhNxMYsOaQ3fQZlE/edit?usp=sharing)
+
 
 
 Talk02: A Story of an Antinomy
