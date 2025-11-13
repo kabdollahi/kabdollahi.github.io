@@ -5,7 +5,7 @@ permalink: /weeklytalks/
 author_profile: true
 ---
 
-A bi-weekly (sometimes weekly) series my friend (a CS student) and I started over half a year ago, where we discuss ideas or questions we encounter in daily life and share insights in 15–60 minute talks. Presentations slides are available via the links provided.
+A bi-weekly (sometimes weekly) series my friend (a CS student) and I started over half a year ago, where we discuss ideas or questions we encounter in daily life and share insights in 30–60 minute talks. Presentations slides are available via the links provided.
 
 Talk01: Attention Is All You Need
 -----
