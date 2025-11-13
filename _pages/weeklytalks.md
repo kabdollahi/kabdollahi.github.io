@@ -9,7 +9,7 @@ A bi-weekly (sometimes weekly) series my friend (a CS student) and I started ove
 
 Talk01: Attention Is All You Need
 -----
-For my first talk, I chose to discuss what is considered one of the most important papers from the past 30 years: "Attention Is All You Need." My friend isn’t exactly a fan of AI, but I felt it was essential to get them familiar with it. It’s a paper everyone should read at least once. [Slides](https://docs.google.com/presentation/d/1HOvJAbs-MfwFsTB8hYYiw7Ls5kCPhNxMYsOaQ3fQZlE/edit?usp=sharing)
+For my first talk, I chose to discuss what is considered one of the most important papers from the past 30 years: "[Attention Is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)." My friend isn’t exactly a fan of AI, but I felt it was essential to get them familiar with it. It’s a paper everyone should read at least once. [Slides](https://docs.google.com/presentation/d/1HOvJAbs-MfwFsTB8hYYiw7Ls5kCPhNxMYsOaQ3fQZlE/edit?usp=sharing)
 
 
 
