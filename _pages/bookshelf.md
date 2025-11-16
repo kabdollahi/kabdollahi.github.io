@@ -18,4 +18,4 @@ Just the one I’m currently reading.
 </div>
 
 **The Hero with a Thousand Faces — Joseph Campbell**  
-*In this book I'm looking for what happens when the call to adventure goes unanswered.*
+*In this book I'm looking to understand what happens when the call to adventure goes unanswered.*
