@@ -17,14 +17,15 @@ Talk 02: A Story of an Antinomy
 ------
 In this talk, I explore the endless antinomy between necessity and chance. Beginning from the end—with Schrödinger’s 1956 reflection—I trace how thinkers from ancient Greece to modern physics have sought to understand chance. The debates, the language, and our understanding of the world have changed, yet the antinomy remains. To grasp the role of chance, we have to look backward and see how people throughout history have thought about it. Most of the material in this talk is based on the book [The challenge of chance: A multidisciplinary approach from science and the humanities](https://link.springer.com/book/10.1007/978-3-319-26300-7). [Slides](https://docs.google.com/presentation/d/1vz4gDST4mkFxf5PmMY_EDJ9RVpQs1c-bKf1-1PgIuhc/edit?usp=sharing)
 
+Talk 03 & 04: Biomechanics of Wrist
+-----
+This talk explores the complex biomechanics of the wrist, inspired by injuries that both I and my friend's mom have experienced, so that we can both understand what might be happening beneath the surface. I focus on two main parts: the bones and the ligaments, based on Chapter 7 of [Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation](https://shop.elsevier.com/books/kinesiology-of-the-musculoskeletal-system/neumann/978-0-323-28753-1). [Slides](https://docs.google.com/presentation/d/1mxTAbeiTHfng3nRz1oeYYAW9MOMBktkmOvhKIoK54WE/edit?usp=sharing)
 
-Talk 03: More Than Just a TOEFL Task
+
+Talk 05: More Than Just a TOEFL Task
 -----
 While preparing for the TOEFL exam, I took a writing workshop where the teacher emphasized reasoning and critical thinking over the use of overly complex words or rhetorical flourishes. He pointed out that many Iranian students, even at the university level, rarely practice structured reasoning through essay writing, and he believes this is the main reason he sees his students struggle with TOEFL writing tasks. This led me to read [“Critical Thinking: Your Guide to Effective Argument, Successful Analysis and Independent Study”](https://uk.sagepub.com/en-gb/eur/critical-thinking/book271969) by Tom Chatfield, and in this talk, I explore the TOEFL writing discussion task, the difference between uncritical and critical thinking, and how to identify and reframe common logical fallacies. [Slides](https://docs.google.com/presentation/d/1nouqfDDZAmef95WUVu8xt7ddepzc3RqqU97WLFY8Vss/edit?usp=sharing)
 
-Talk 04 & 05: Biomechanics of Wrist
------
-This talk explores the complex biomechanics of the wrist, inspired by injuries that both I and my friend's mom have experienced, so that we can both understand what might be happening beneath the surface. I focus on two main parts: the bones and the ligaments, based on Chapter 7 of [Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation](https://shop.elsevier.com/books/kinesiology-of-the-musculoskeletal-system/neumann/978-0-323-28753-1). [Slides](https://docs.google.com/presentation/d/1mxTAbeiTHfng3nRz1oeYYAW9MOMBktkmOvhKIoK54WE/edit?usp=sharing)
 
 Talk 06: Can You Read My Mind?
 -----
