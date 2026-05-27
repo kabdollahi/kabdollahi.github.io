@@ -10,6 +10,6 @@ author_profile: true
 - Solo hiking, nothing too dangerous
 - Playing bass guitar (tried producing, but being a player feels way more me)
 - Learning languages
-  - Alive ones: currently focusing on French and hoping to reach B1 soon.
-  - Dead ones: ancient greek
+  - Living languages: currently focusing on French and hoping to reach B1 soon.
+  - Dead languages: Ancient Greek
 - Cooking soups
