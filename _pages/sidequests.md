@@ -9,7 +9,7 @@ author_profile: true
 - Sport climbing and bouldering… when I'm not injured
 - Solo hiking, nothing too dangerous
 - Playing bass guitar (tried producing, but being a player feels way more me)
-- Learning languages
-  - Living languages: currently focusing on French and hoping to reach B1 soon.
+- Learning languages — currently active:
+  - Living languages: French
   - Dead languages: Ancient Greek
 - Cooking soups
