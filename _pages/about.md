@@ -16,3 +16,7 @@ With a strong background in mathematical statistics, I enjoy exploring how data,
 As a high schooler, I was drawn to modern physics and the idea of uncertainty. My favorite subject at school was a course called Algebra and Probability. I’d long been fascinated by visual storytelling, and spent the summer before university learning VFX, wanting to become a VFX artist who could express ideas thorugh sound and image. When the pandemic put much of the world on pause, my focus shifted fully to studying statistics, though I’ve come to realize these paths shared the same motive: making sense of complexity, whether through visuals or data. Later, I became interested in forensic science and was even offered a position at the Judiciary Research Institute as a statistician. But I realized I didn’t want to spend my life uncovering what went wrong but understanding what could go right. That shift gradually led me toward questions in health and uncertainty.
 
 **Currently I'm looking for PhD opportunities in statistics or biostatistics.** If you’d like to get in touch, please don’t hesitate to contact me at my [email](kabdollahi99@gmail.com). 
+
+## News
+May 2026; Received a PhD admission offer from the MRC Biostatistics Unit for research in causal inference.
+
