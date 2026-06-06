@@ -18,5 +18,5 @@ As a high schooler, I was drawn to modern physics and the idea of uncertainty. M
 **Currently I'm looking for PhD opportunities in statistics or biostatistics.** If you’d like to get in touch, please don’t hesitate to contact me at my [email](kabdollahi99@gmail.com). 
 
 ## News
-> May 2026 - Received a conditional PhD admission offer in Biostatistics at University of Cambridge, with research based at the MRC Biostatistics Unit for research in causal inference.
+> May 2026 - Received a PhD offer in Biostatistics at University of Cambridge, with research based at the MRC Biostatistics Unit for research in causal inference.
 
